@@ -6,7 +6,7 @@ API RESTful para gestão de obras de construção civil, desenvolvida em Elixir 
 
 ## Contexto e decisão tecnológica
 
-Tenho experiência profissional com Node.js e Express. Desenvolver mais uma API REST nessa stack não representaria aprendizado novo, apenas repetição do que já faço no dia a dia. Por isso, optei por explorar uma tecnologia completamente fora da minha zona de conforto: Elixir com o framework Phoenix.
+Tenho experiência profissional com Node.js e Fastify. Desenvolver mais uma API REST nessa stack não representaria aprendizado novo, apenas repetição do que já faço no dia a dia. Por isso, optei por explorar uma tecnologia completamente fora da minha zona de conforto: Elixir com o framework Phoenix.
 
 Nunca havia aberto um projeto em Elixir antes deste trabalho.
 
