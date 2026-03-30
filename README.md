@@ -203,7 +203,7 @@ mix phx.server
 ```
 
 O servidor responde em `http://localhost:4000`.
-A documentação interativa está em `http://localhost:4000/api/swagger`.
+A documentação interativa está em `http://localhost:4000/api/api-docs`.
 
 Para rodar os testes automatizados:
 
